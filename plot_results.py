@@ -1,7 +1,7 @@
 # This script allows you to plot the results from the Python weather assignment.
 # You do not need to understand the contents of this script.
 # To run, you can click the run button in your IDE (e.g. right top in Visual Studio Code),
-# or you can run `python3 plot_results.py` from your terminal (bash or PowerShell).
+# or you can run `python3 plot_results.py` from your terminal (bash or PowerShell
 
 import calendar
 import json
